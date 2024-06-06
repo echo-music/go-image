@@ -1,4 +1,4 @@
-module go-image
+module github.com/echo-music/go-image
 
 go 1.21.6
 
