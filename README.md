@@ -9,7 +9,9 @@
 ```
 git clone git@github.com:echo-music/go-image.git
 
-cd go-image/marker/cmd && go run main.go
+cd go-image && go mod download
+
+cd marker/cmd && go run main.go
 ```
 
 # 快速入门
