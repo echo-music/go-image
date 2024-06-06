@@ -1,9 +1,10 @@
 package main
 
 import (
-	"go-image/marker"
 	"image"
 	"image/draw"
+
+	"github.com/echo-music/go-image/marker"
 
 	"github.com/disintegration/imaging"
 )
